@@ -7,8 +7,12 @@
 Albert França Josuá costa
 
 albertfrancajosuacosta@gmail.com
+
 albert@icomp.ufam.edu.br
+
 albert.costa@ifam.edu.br
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <https://www.linkedin.com/in/albert-josu%C3%A1-9aa550239/>
 
 ## Badges
 
