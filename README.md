@@ -1,8 +1,18 @@
 # 4artigo
 
-## Repository temporary to share the evolution of results of experiments about concept drift descriptors.
+## Description
 
-## Contact:
+Repository temporary to share the evolution of results of experiments about concept drift descriptors.
+
+## Abstract
+
+xxx
+
+
+## References:
+
+
+## Contact
 
 Albert França Josuá costa
 
