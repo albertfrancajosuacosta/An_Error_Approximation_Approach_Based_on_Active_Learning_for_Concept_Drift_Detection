@@ -2,7 +2,7 @@
 
 ## Description
 
-The datasets and softwares generated or analysed during on the paper "An Error Approximate Approach Based on Active Learning for Concept Drift Detection" are available in this repository.
+The datasets and software generated or analyzed in the paper 'An Error Approximate Approach Based on Active Learning for Concept Drift Detection' are available in this repository.
 
 ## Abstract
 
