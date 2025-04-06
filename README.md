@@ -2,8 +2,6 @@
 
 ## Description
 
-Repository to share the evolution of results of experiments about concept drift descriptors.
-
 The datasets and softwares generated or analysed during on the paper "An Error Approximate Approach Based on Active Learning for Concept Drift Detection" are available in this repository.
 
 ## Abstract
